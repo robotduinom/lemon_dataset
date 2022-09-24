@@ -23,7 +23,8 @@ Lemon dataset has been prepared to investigate the possibilities to tackle the i
 | ![](docs/examples/empty_background/empty_background_383.jpg) | ![](docs/examples/empty_background/empty_background_385.jpg) | ![](docs/examples/empty_background/empty_background_425.jpg) |
 
 
-Github: https://github.com/robotduinom/lemon_dataset 
+Github: https://github.com/robotduinom/lemon_dataset
+
 Kaggle:                       
 
 
