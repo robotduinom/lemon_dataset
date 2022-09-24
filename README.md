@@ -25,6 +25,6 @@ Lemon dataset has been prepared to investigate the possibilities to tackle the i
 
 Github: https://github.com/robotduinom/lemon_dataset
 
-Kaggle:                       
+Kaggle: https://www.kaggle.com/datasets/yusufemir/lemon-quality-dataset                  
 
 
